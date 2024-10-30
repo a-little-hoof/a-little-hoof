@@ -4,8 +4,6 @@
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=a-little-hoof&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
 </div>
 
-![暗色](https://raw.githubusercontent.com/a-little-hoof/a-little-hoof/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/a-little-hoof/count.svg" />
