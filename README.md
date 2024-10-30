@@ -1,12 +1,10 @@
-## Hi there 👋
-
 ### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=a-little-hoof.a-little-hoof">
 
 <div align=center>
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=a-little-hoof&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
 </div>
 
-![暗色](https://raw.githubusercontent.com/Gaiejj/Gaiejj/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/a-little-hoof/a-little-hoof/8229523d5d57a0810799f68263732cad61f198bb/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   Visitor count<br>
