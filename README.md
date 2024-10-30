@@ -1,9 +1,5 @@
 ### Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=a-little-hoof.a-little-hoof">
 
-<div align=center>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=a-little-hoof&?count_private=true&theme=merko&title_color=6d7fba&bg_color=eac4d5&text_color=ad6e8f">
-</div>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/a-little-hoof/count.svg" />
